@@ -1,5 +1,10 @@
 Hi there 👋
 
+<a href="https://www.linkedin.com/in/sara-mazaheri/">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saramazaheri)
+<br>
+
 - ⚡ I'm studying Computer Science at University of Guilan
 - 🔭 I’m currently working on Counseling Center with SQL and Web Design
 - 🌱 I’m currently learning Data Base and Data Mining
