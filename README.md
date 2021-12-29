@@ -1,6 +1,8 @@
 Hi there 👋
 
 <a href="https://www.linkedin.com/in/sara-mazaheri-399a6b191/">
+  <img align="left" alt="Sara's Linkedin" width="22px" <i class="fab fa-linkedin"></i>/>
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saramazaheri)
 <br>
