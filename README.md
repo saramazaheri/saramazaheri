@@ -1,8 +1,5 @@
 Hi there 👋
 
-<a href="https://www.linkedin.com/in/sara-mazaheri-399a6b191/">
-  <i class="fab fa-linkedin"></i>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saramazaheri)
 <br>
 
