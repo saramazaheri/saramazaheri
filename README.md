@@ -9,5 +9,9 @@ Hi there 👋
 - 🔭 I’m currently working on Counseling Center with SQL and Web Design
 - 🌱 I’m currently learning Data Base and Data Mining
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramazaheri&layout=compact)]
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saramazaheri&show_icons=true&locale=en&layout=compact" alt="saramazaheri" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=saramazaheri&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="saramazaheri" />
+</div>
 
+ 
