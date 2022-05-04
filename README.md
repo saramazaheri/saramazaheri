@@ -3,5 +3,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/sara.mazaheri/)](https://www.instagram.com/sara.mazaheri)
  - 👋 Hi My name is Sara
  - ⚡ I'm studying Computer Science at University of Guilan
- - 🔭 I’m currently working on Adobe XD!
+ - 🔭 I’m currently working on Minimum Makespan for Design and Analysis of Algorithms course!
  - 🌱 I’m currently learning Computer System and Compiler
