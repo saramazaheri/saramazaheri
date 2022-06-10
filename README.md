@@ -5,3 +5,8 @@
  - ⚡ I'm studying Computer Science at University of Guilan
  - 🔭 I’m currently working on Minimum Makespan for Design and Analysis of Algorithms course!
  - 🌱 I’m currently learning Computer System and Compiler
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saramazaheri&show_icons=true&locale=en&layout=compact" alt="saramazaheri" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=saramazaheri&" alt="saramazaheri" />
+</div>
