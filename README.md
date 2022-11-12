@@ -4,6 +4,6 @@
  - 👋 Hi My name is Sara
  - ⚡ I'm studying Computer Science at University of Guilan
  - 🔭 I’m currently working as a Researcher
- - 🌱 I’m currently learning User Intent Modelling
+ - 🌱 I’m currently learning Literature Study
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saramazaheri&show_icons=true&locale=en&layout=compact" alt="saramazaheri" />
